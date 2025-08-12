@@ -174,7 +174,7 @@ export const mySocials = [
   },
   {
     name: "Resume",
-    href: "", 
+    href: "/assets/Manusha Sachin Resume.pdf", 
     icon: "/assets/socials/user.svg", 
   },
 ];
