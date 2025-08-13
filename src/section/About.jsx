@@ -79,7 +79,7 @@ const About = () => {
             <div className='grid-black-color grid-3'>
                 <div className='z-10 w-[50%]'>
                     <p className='headtext'>Time Zone</p>
-                    <p className='subtext'>I'm based in Mars, and open to remote work worldwide</p>
+                    <p className='subtext'>Based in Sri Lanka and is open to work remotely in Colombo and Global.</p>
                 </div>
                 <figure className='absolute left-[30%] top-[10%]'> 
                     <Globe />
